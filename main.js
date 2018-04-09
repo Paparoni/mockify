@@ -1,7 +1,6 @@
 function mock(text) {
     text = text.toLowerCase();
     var textArray = text.split('');
-    console.log(textArray);
     for(var i = 0; i < text.length; i++){
         var eoL = i++;
         
