@@ -1,6 +1,6 @@
 # Mockify
 Convert text into the spongemock meme format 
-(http://ajeezy.tech/mockify)[SEE IT IN ACTION]
+[SEE IT IN ACTION](http://ajeezy.tech/mockify)
 
 Created by: Antwaun Tune<br/> 
 Email: <tuneantwaun@gmail.com><br/>
