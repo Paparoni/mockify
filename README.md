@@ -1,5 +1,5 @@
 # Mockify
-Convert text into the spongemock meme format 
+Convert text into the spongemock meme format<br> 
 [SEE IT IN ACTION](http://ajeezy.tech/mockify)
 
 Created by: Antwaun Tune<br/> 
