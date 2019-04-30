@@ -1,21 +1,14 @@
 function mock(text) {
     text = text.toLowerCase();
     var textArray = text.split('');
-    for(var i = 0; i < text.length; i++){
-        var eoL = i++;
-        
-        if( typeof textArray[eoL] == "undefined"){
-            
-        } else {
-            textArray[eoL] = textArray[eoL].toUpperCase();
-        }
-        
+    for(let i = 0; i < text.length + 1; i++){
+        let eoL = i++;
+        textArray[eoL] = textArray[eoL].toUpperCase();   
     }
     
-  var final = textArray.join('');
+  let final = textArray.join('');
   return final;
 }
-
 $( document ).ready(function() {
     $("#main-box").height(200);
     $("#result-box").height(200);
